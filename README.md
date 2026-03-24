@@ -6,9 +6,9 @@ This project goes beyond visualization — it delivers **strategic insights and 
 
 ---
 
-## 📊 Dashboard Overview
+## Dashboard Overview
 
-![Cafe Sales Dashboard](./cafe-sales-dashboard.png)
+![Cafe Sales Dashboard](cafe sales analysis scrht.png)
 
 The dashboard provides an interactive view of café performance across:
 
